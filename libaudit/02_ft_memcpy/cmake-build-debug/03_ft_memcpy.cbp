@@ -8,38 +8,38 @@
 		<Option virtualFolders="CMake Files\;"/>
 		<Build>
 			<Target title="all">
-				<Option working_dir="/Users/fjenae/Desktop/libaudit/03_ft_memcpy/cmake-build-debug"/>
+				<Option working_dir="/Users/fjenae/Desktop/library/libaudit/02_ft_memcpy/cmake-build-debug"/>
 				<Option type="4"/>
 				<MakeCommands>
-					<Build command="/usr/bin/make -j4 -f &quot;/Users/fjenae/Desktop/libaudit/03_ft_memcpy/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
-					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/fjenae/Desktop/libaudit/03_ft_memcpy/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j4 -f &quot;/Users/fjenae/Desktop/libaudit/03_ft_memcpy/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/fjenae/Desktop/libaudit/03_ft_memcpy/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/fjenae/Desktop/library/libaudit/02_ft_memcpy/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/fjenae/Desktop/library/libaudit/02_ft_memcpy/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/fjenae/Desktop/library/libaudit/02_ft_memcpy/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/fjenae/Desktop/library/libaudit/02_ft_memcpy/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="rebuild_cache">
-				<Option working_dir="/Users/fjenae/Desktop/libaudit/03_ft_memcpy/cmake-build-debug"/>
+				<Option working_dir="/Users/fjenae/Desktop/library/libaudit/02_ft_memcpy/cmake-build-debug"/>
 				<Option type="4"/>
 				<MakeCommands>
-					<Build command="/usr/bin/make -j4 -f &quot;/Users/fjenae/Desktop/libaudit/03_ft_memcpy/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
-					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/fjenae/Desktop/libaudit/03_ft_memcpy/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j4 -f &quot;/Users/fjenae/Desktop/libaudit/03_ft_memcpy/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/fjenae/Desktop/libaudit/03_ft_memcpy/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/fjenae/Desktop/library/libaudit/02_ft_memcpy/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/fjenae/Desktop/library/libaudit/02_ft_memcpy/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/fjenae/Desktop/library/libaudit/02_ft_memcpy/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/fjenae/Desktop/library/libaudit/02_ft_memcpy/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="edit_cache">
-				<Option working_dir="/Users/fjenae/Desktop/libaudit/03_ft_memcpy/cmake-build-debug"/>
+				<Option working_dir="/Users/fjenae/Desktop/library/libaudit/02_ft_memcpy/cmake-build-debug"/>
 				<Option type="4"/>
 				<MakeCommands>
-					<Build command="/usr/bin/make -j4 -f &quot;/Users/fjenae/Desktop/libaudit/03_ft_memcpy/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
-					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/fjenae/Desktop/libaudit/03_ft_memcpy/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j4 -f &quot;/Users/fjenae/Desktop/libaudit/03_ft_memcpy/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/fjenae/Desktop/libaudit/03_ft_memcpy/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/fjenae/Desktop/library/libaudit/02_ft_memcpy/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/fjenae/Desktop/library/libaudit/02_ft_memcpy/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/fjenae/Desktop/library/libaudit/02_ft_memcpy/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/fjenae/Desktop/library/libaudit/02_ft_memcpy/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="03_ft_memcpy">
-				<Option output="/Users/fjenae/Desktop/libaudit/03_ft_memcpy/cmake-build-debug/03_ft_memcpy" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="/Users/fjenae/Desktop/libaudit/03_ft_memcpy/cmake-build-debug"/>
+				<Option output="/Users/fjenae/Desktop/library/libaudit/02_ft_memcpy/cmake-build-debug/03_ft_memcpy" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/fjenae/Desktop/library/libaudit/02_ft_memcpy/cmake-build-debug"/>
 				<Option object_output="./"/>
 				<Option type="1"/>
 				<Option compiler="gcc"/>
@@ -52,15 +52,15 @@
 					<Add directory="/Library/Frameworks"/>
 				</Compiler>
 				<MakeCommands>
-					<Build command="/usr/bin/make -j4 -f &quot;/Users/fjenae/Desktop/libaudit/03_ft_memcpy/cmake-build-debug/Makefile&quot;  VERBOSE=1 03_ft_memcpy"/>
-					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/fjenae/Desktop/libaudit/03_ft_memcpy/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j4 -f &quot;/Users/fjenae/Desktop/libaudit/03_ft_memcpy/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/fjenae/Desktop/libaudit/03_ft_memcpy/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/fjenae/Desktop/library/libaudit/02_ft_memcpy/cmake-build-debug/Makefile&quot;  VERBOSE=1 03_ft_memcpy"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/fjenae/Desktop/library/libaudit/02_ft_memcpy/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/fjenae/Desktop/library/libaudit/02_ft_memcpy/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/fjenae/Desktop/library/libaudit/02_ft_memcpy/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="03_ft_memcpy/fast">
-				<Option output="/Users/fjenae/Desktop/libaudit/03_ft_memcpy/cmake-build-debug/03_ft_memcpy" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="/Users/fjenae/Desktop/libaudit/03_ft_memcpy/cmake-build-debug"/>
+				<Option output="/Users/fjenae/Desktop/library/libaudit/02_ft_memcpy/cmake-build-debug/03_ft_memcpy" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/fjenae/Desktop/library/libaudit/02_ft_memcpy/cmake-build-debug"/>
 				<Option object_output="./"/>
 				<Option type="1"/>
 				<Option compiler="gcc"/>
@@ -73,17 +73,17 @@
 					<Add directory="/Library/Frameworks"/>
 				</Compiler>
 				<MakeCommands>
-					<Build command="/usr/bin/make -j4 -f &quot;/Users/fjenae/Desktop/libaudit/03_ft_memcpy/cmake-build-debug/Makefile&quot;  VERBOSE=1 03_ft_memcpy/fast"/>
-					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/fjenae/Desktop/libaudit/03_ft_memcpy/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j4 -f &quot;/Users/fjenae/Desktop/libaudit/03_ft_memcpy/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/fjenae/Desktop/libaudit/03_ft_memcpy/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/fjenae/Desktop/library/libaudit/02_ft_memcpy/cmake-build-debug/Makefile&quot;  VERBOSE=1 03_ft_memcpy/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/fjenae/Desktop/library/libaudit/02_ft_memcpy/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/fjenae/Desktop/library/libaudit/02_ft_memcpy/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/fjenae/Desktop/library/libaudit/02_ft_memcpy/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 		</Build>
-		<Unit filename="/Users/fjenae/Desktop/libaudit/03_ft_memcpy/main.c">
+		<Unit filename="/Users/fjenae/Desktop/library/libaudit/02_ft_memcpy/main.c">
 			<Option target="03_ft_memcpy"/>
 		</Unit>
-		<Unit filename="/Users/fjenae/Desktop/libaudit/03_ft_memcpy/CMakeLists.txt">
+		<Unit filename="/Users/fjenae/Desktop/library/libaudit/02_ft_memcpy/CMakeLists.txt">
 			<Option virtualFolder="CMake Files\"/>
 		</Unit>
 	</Project>

@@ -1,4 +1,4 @@
-# Install script for directory: /Users/fjenae/Desktop/libaudit/03_ft_memcpy
+# Install script for directory: /Users/fjenae/Desktop/library/libaudit/02_ft_memcpy
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -40,5 +40,5 @@ endif()
 
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
-file(WRITE "/Users/fjenae/Desktop/libaudit/03_ft_memcpy/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
+file(WRITE "/Users/fjenae/Desktop/library/libaudit/02_ft_memcpy/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")
