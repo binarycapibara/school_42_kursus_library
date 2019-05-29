@@ -1,0 +1,3 @@
+/Users/fjenae/Desktop/libaudit/03_ft_memcpy/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/fjenae/Desktop/libaudit/03_ft_memcpy/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/fjenae/Desktop/libaudit/03_ft_memcpy/cmake-build-debug/CMakeFiles/03_ft_memcpy.dir
