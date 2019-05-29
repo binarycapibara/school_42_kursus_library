@@ -62,20 +62,20 @@ char	*ft_strncat(char *s1, const char *s2, size_t n)
 	return (result);
 }
 
-size_t		ft_strlcat(char *dst, const char *src, size_t size)
+size_t		ft_strlcat(char *dst, const char *src, size_t size)					//function returns LENGHT of string it was supposed to create
 {
-	size_t	dstlen;
+	size_t	dstlen;																//it will work with most [size - strlen(dst) - 1]
 	size_t	srclen;
 	
-	dstlen = ft_strlen(dst);
-	srclen = ft_strlen(src);
-	if (size == 0 || size <= dstlen)
-	{
-		return (size + srclen);
+	dstlen = ft_strlen(dst);													//calculate number of chars in dst
+	srclen = ft_strlen(src);													//calculate number of chars in src
+	if (size == 0 || size <= dstlen)											//if params does not fit into conditions, i.e. size = 0 => (-)[0 - strlen(dst) - 1] OR
+	{																			// size < dstlen => [  size - strlen(dst) is negative]
+		return (size + srclen);													//return simply size of source + size as there is nothing to calculate
 	}
-	if (size > dstlen)
+	if (size > dstlen)															//is [size > dstlen] then we actually create respective appended string with strncat
 	{
-		dst = ft_strncat(dst, src, (size - dstlen - 1));
+		dst = ft_strncat(dst, src, (size - dstlen - 1));						//append src to dst with n equal to size - dstlen - 1
 	}
 	return (dstlen + srclen);
 }
@@ -84,5 +84,5 @@ int 	main()
 {
 	char 	dst[] = "malina";
 	char 	src[] = "topol";
-	ft_strlcat (dst, src, 12);
+	ft_strlcat (dst, src, 7);
 }

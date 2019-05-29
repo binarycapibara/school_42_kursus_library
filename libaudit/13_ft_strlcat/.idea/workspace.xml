@@ -12,26 +12,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d6f5aa56-f63a-4efb-a2ee-78281d8aa50d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../10_ft_strncpy/.idea/10_ft_strncpy.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../10_ft_strncpy/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../10_ft_strncpy/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../10_ft_strncpy/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../02_ft_memcpy/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../02_ft_memcpy/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../02_ft_memcpy/cmake-build-debug/03_ft_memcpy.cbp" beforeDir="false" afterPath="$PROJECT_DIR$/../02_ft_memcpy/cmake-build-debug/03_ft_memcpy.cbp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../02_ft_memcpy/cmake-build-debug/CMakeCache.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../02_ft_memcpy/cmake-build-debug/CMakeCache.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../02_ft_memcpy/cmake-build-debug/CMakeFiles/03_ft_memcpy.dir/C.includecache" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../02_ft_memcpy/cmake-build-debug/CMakeFiles/03_ft_memcpy.dir/DependInfo.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../02_ft_memcpy/cmake-build-debug/CMakeFiles/03_ft_memcpy.dir/DependInfo.cmake" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../02_ft_memcpy/cmake-build-debug/CMakeFiles/03_ft_memcpy.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/../02_ft_memcpy/cmake-build-debug/CMakeFiles/03_ft_memcpy.dir/build.make" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../02_ft_memcpy/cmake-build-debug/CMakeFiles/03_ft_memcpy.dir/depend.internal" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../02_ft_memcpy/cmake-build-debug/CMakeFiles/03_ft_memcpy.dir/depend.make" beforeDir="false" afterPath="$PROJECT_DIR$/../02_ft_memcpy/cmake-build-debug/CMakeFiles/03_ft_memcpy.dir/depend.make" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../02_ft_memcpy/cmake-build-debug/CMakeFiles/03_ft_memcpy.dir/main.c.o" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../02_ft_memcpy/cmake-build-debug/CMakeFiles/CMakeDirectoryInformation.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../02_ft_memcpy/cmake-build-debug/CMakeFiles/CMakeDirectoryInformation.cmake" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../02_ft_memcpy/cmake-build-debug/CMakeFiles/CMakeOutput.log" beforeDir="false" afterPath="$PROJECT_DIR$/../02_ft_memcpy/cmake-build-debug/CMakeFiles/CMakeOutput.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../02_ft_memcpy/cmake-build-debug/CMakeFiles/Makefile2" beforeDir="false" afterPath="$PROJECT_DIR$/../02_ft_memcpy/cmake-build-debug/CMakeFiles/Makefile2" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../02_ft_memcpy/cmake-build-debug/CMakeFiles/TargetDirectories.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../02_ft_memcpy/cmake-build-debug/CMakeFiles/TargetDirectories.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../02_ft_memcpy/cmake-build-debug/CMakeFiles/clion-log.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../02_ft_memcpy/cmake-build-debug/CMakeFiles/clion-log.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../02_ft_memcpy/cmake-build-debug/Makefile" beforeDir="false" afterPath="$PROJECT_DIR$/../02_ft_memcpy/cmake-build-debug/Makefile" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../02_ft_memcpy/cmake-build-debug/cmake_install.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../02_ft_memcpy/cmake-build-debug/cmake_install.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.c" beforeDir="false" afterPath="$PROJECT_DIR$/main.c" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/cmake-build-debug/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -45,7 +26,7 @@
   </component>
   <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/CMakeLists.txt">
           <provider selected="true" editor-type-id="text-editor" />
@@ -54,8 +35,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/main.c">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="946">
-              <caret line="75" selection-start-line="75" selection-end-line="75" />
+            <state relative-caret-position="1052">
+              <caret line="83" column="1" lean-forward="true" selection-start-line="83" selection-start-column="1" selection-end-line="83" selection-end-column="1" />
             </state>
           </provider>
         </entry>
@@ -94,11 +75,12 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="ProjectPane" />
       <pane id="Scope" />
+      <pane id="ProjectPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -133,24 +115,20 @@
       <option name="presentableId" value="Default" />
       <updated>1559151859734</updated>
       <workItem from="1559151860904" duration="727000" />
+      <workItem from="1559152663195" duration="1080000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="727000" />
+    <option name="totallyTimeSpent" value="1807000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="292" y="46" width="1748" height="1356" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info id="Favorites" side_tool="true" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24970692" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25263774" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="CMake" />
-      <window_info anchor="bottom" id="Database Changes" />
-      <window_info anchor="bottom" id="Version Control" />
-      <window_info anchor="bottom" id="Messages" weight="0.32990506" />
-      <window_info anchor="bottom" id="Terminal" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" />
@@ -158,10 +136,16 @@
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="right" id="Database" />
+      <window_info anchor="bottom" id="Database Changes" order="7" />
+      <window_info anchor="bottom" id="Messages" order="8" weight="0.32990506" />
+      <window_info anchor="bottom" id="Terminal" order="9" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="11" />
+      <window_info anchor="bottom" id="CMake" order="12" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Database" order="3" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -184,8 +168,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/main.c">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="946">
-          <caret line="75" selection-start-line="75" selection-end-line="75" />
+        <state relative-caret-position="1052">
+          <caret line="83" column="1" lean-forward="true" selection-start-line="83" selection-start-column="1" selection-end-line="83" selection-end-column="1" />
         </state>
       </provider>
     </entry>
