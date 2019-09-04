@@ -6,7 +6,7 @@
 /*   By: fjenae <fjenae@student.42.fr>              +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2019/04/21 15:59:49 by fjenae            #+#    #+#             */
-/*   Updated: 2019/09/04 20:51:13 by fjenae           ###   ########.fr       */
+/*   Updated: 2019/09/04 20:59:18 by fjenae           ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -93,6 +93,5 @@ int					ft_isupper(int c);
 int					ft_isxdigit(int c);
 int					ft_str_is_lowercase(char *str);
 int					ft_str_is_uppercase(char *str);
-
 
 #endif
