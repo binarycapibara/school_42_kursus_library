@@ -1,3 +1,0 @@
-/Users/fjenae/Desktop/library/libaudit/20_ft_atoi/cmake-build-debug/CMakeFiles/rebuild_cache.dir
-/Users/fjenae/Desktop/library/libaudit/20_ft_atoi/cmake-build-debug/CMakeFiles/edit_cache.dir
-/Users/fjenae/Desktop/library/libaudit/20_ft_atoi/cmake-build-debug/CMakeFiles/20_ft_atoi.dir

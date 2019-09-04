@@ -1,3 +1,0 @@
-/Users/fjenae/Desktop/library/libaudit/18_ft_strcmp/cmake-build-debug/CMakeFiles/rebuild_cache.dir
-/Users/fjenae/Desktop/library/libaudit/18_ft_strcmp/cmake-build-debug/CMakeFiles/edit_cache.dir
-/Users/fjenae/Desktop/library/libaudit/18_ft_strcmp/cmake-build-debug/CMakeFiles/18_ft_strcmp.dir
